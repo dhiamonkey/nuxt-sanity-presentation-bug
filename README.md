@@ -17,7 +17,7 @@ This issue is consistently replicateable in my work project or a fresh sanity st
 ## How to Reproduce 
 
 1. Clone this repo
-2. Make a new sanity project, get a new sanity project
+2. Make a new sanity project, get a new sanity project id
 3. Create a read token, as a prequisite to use `Presentation` tool
 4. Update `projectId` and `token` in `sanity.config.ts` and `app/fe-test-presentation/nuxt.config.ts` with yours.
 5. In sanity studio, there is a placeholder `Event` document, please add one.
