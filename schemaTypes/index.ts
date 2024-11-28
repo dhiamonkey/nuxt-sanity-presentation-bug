@@ -1,1 +1,3 @@
-export const schemaTypes = []
+import { eventType } from "./evenType";
+
+export const schemaTypes = [eventType]
